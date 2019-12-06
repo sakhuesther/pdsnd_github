@@ -15,6 +15,11 @@ New York City, Chicago and Washington DC. This project also creates an environmn
 ### Files used
 chicago.csv washington.csv new_york_city.csv
 
+###Prerequisites
+Download the csv files (chicago.csv,
+New_york_city.csv and
+washington.csv)  and copy them to the folder where you have saved your python file
+
 ### Credits
 https://docs.python.org/3/tutorial/inputoutput.html
 
