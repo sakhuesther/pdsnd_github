@@ -9,8 +9,18 @@ A python project that analyses bike share data, and aims at comparing the system
 New York City, Chicago and Washington DC. This project also creates an environmnet where a user chooses the data and filter for a dataset to analyse.
 
 ### Files used
-Include the files used
+chicago.csv washington.csv new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://docs.python.org/3/tutorial/inputoutput.html
+
+http://pandas.pydata.org/pandas-docs/stable/api.html?#groupby
+
+https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
+
+https://w3schools.com/python/
+
+https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
+
+https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/
 
