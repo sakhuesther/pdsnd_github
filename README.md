@@ -5,7 +5,8 @@
 Bike share Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+A python project that analyses bike share data, and aims at comparing the system usage between three large cities in the US: 
+New York City, Chicago and Washington DC. This project also creates an environmnet where a user chooses the data and filter for a dataset to analyse.
 
 ### Files used
 Include the files used
